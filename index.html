@@ -14,7 +14,7 @@
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-            background-color: #e0e6eb;
+            background: linear-gradient(135deg, #e6e9f0 0%, #dbe2e9 100%);
         }
 
         .container {
@@ -25,6 +25,7 @@
             text-align: center;
             max-width: 900px;
             width: 90%;
+            position: relative;
         }
 
         .main-title {
@@ -93,6 +94,12 @@
             box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
             transform: translateY(-2px);
         }
+        
+        .footer-text {
+            margin-top: 50px;
+            font-size: 0.9em;
+            color: #778899;
+        }
 
         @media (max-width: 768px) {
             .container {
@@ -122,15 +129,15 @@
             <a href="ari-maps/global_ari.html" class="round-button button-blue">Country-Specific Maps 🗺️</a>
             
             <!-- Button 2 -->
-           
             <a href="ari-maps/regional_ari.html" class="round-button button-green">Regional-Specific Maps 🌍</a>
-            <!-- Button 3 -->
             
-           <a href="ari-maps/exceedance_maps.html" class="round-button button-orange">Country-Exceedance Maps 📊</a>
+            <!-- Button 3 -->
+            <a href="ari-maps/exceedance_maps.html" class="round-button button-orange">Country-Exceedance Maps 📊</a>
         </div>
-    </div>
-    <p class="footer-text">
+        
+        <p class="footer-text">
             Explore the spatial dynamics of ambient PM2.5 and child ARI. 🫁🌍✨
         </p>
+    </div>
 </body>
 </html>
