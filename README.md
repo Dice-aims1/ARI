@@ -1,5 +1,5 @@
 # ARI
-Interactive Maps for -Spatial variability in the association of ambient PM₂.₅ exposure with acute respiratory infection among children in Sub-Saharan Africa
+Interactive Maps for - *Spatial variability in the association of ambient PM₂.₅ exposure with acute respiratory infection among children in Sub-Saharan Africa*
 
 
 Paul K. Adjorlolo 2 , Patrick Attey-Yeboah 1 , Justice Moses Aheto 2 , John Molitor 2 , Eric S. Coker 4 , Adeladza
